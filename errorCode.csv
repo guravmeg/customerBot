@@ -1,0 +1,18 @@
+﻿Error Code,Short Desc,Long Desc,User response
+CUZ001E,Multiple executions of the ISPF interface in one TSO session is not allowed,"You are attempting to use multiple ISPF interfaces in one TSO session, which is not allowed.","Open multiple TSO sessions to use more than one
+ISPF interface."
+,,,
+,,,
+CUZ007E,Invalid value entered - Please enter a valid value from the list displayed.,A value was entered that is not allowed on the current panel.,"Change the value to one that is allowed, based on the list displayed."
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
